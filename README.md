@@ -33,10 +33,10 @@ This is a news aggregator application built with React, featuring a personalized
    ```bash
    yarn install
 
-3. **Set Up Environment Variables**
+4. **Set Up Environment Variables**
 
    ```bash
-  REACT_APP_NEWS_API_KEY=your_newsapi_key
+   REACT_APP_NEWS_API_KEY=your_newsapi_key
 
 ## Running the Application
 
